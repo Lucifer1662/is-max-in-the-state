@@ -3,6 +3,8 @@
 Deployed at:
 <a href="https://ismaxinthestaate.web.app/"> Is Max in the State? </a>
 
+<img src="/example.gif"/>
+
 ## Purpose
 To ask the important question of, is <a href="https://github.com/maxcaddie">max</a> in the state? 
 <br/>
